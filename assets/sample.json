@@ -1,0 +1,24 @@
+{
+    "items": [
+      {
+        "name": "LCW CLASSIC Slim Fit Kısa Kollu Oxford Erkek Gömlek",
+        "price": "69.99",
+        "description": "Product Code: S15547Z8 - LSJ - Lacivert Baskılı"
+      },
+      {
+        "name": "SOUTHBLUE Regular Fit Uzun Kollu Keten Erkek Gömlek",
+        "price": "119.99",
+        "description": "Product Code: S1LI23Z8 - RTZ - Bej"
+      },
+      {
+        "name": "SOUTHBLUE Regular Fit Uzun Kollu Çizgili Keten Erkek Gömlek",
+        "price": "119.99",
+        "description": "Product Code: S1LI25Z8 - LGS - Lacivert Çizgili"
+      },
+      {
+        "name": "SOUTHBLUE Regular Fit Uzun Kollu Keten Erkek Gömlek",
+        "price": "119.99",
+        "description": "Product Code: S1LI24Z8 - HRC - Koyu Lacivert"
+      }
+    ]
+  }
