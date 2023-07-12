@@ -1,3 +1,1 @@
-# flutter_application
-
-E Commerce Flutter project.
+# E Commerce Flutter project.
